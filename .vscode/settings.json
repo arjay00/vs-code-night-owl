@@ -2,6 +2,9 @@
 "terminal.integrated.fontFamily": "Fira Code",
 "editor.fontFamily": "Fira Code",
 "editor.fontLigatures": true,
+"editor.fontLigatures": true,
+"editor.formatOnSave": true,
+"editor.defaultFormatter": "esbenp.prettier-vscode",
 "workbench.colorCustomizations": {
   "[Night Owl]": {
     "activityBar.background": "#000C1D",
