@@ -3,6 +3,9 @@
 "editor.fontFamily": "Fira Code",
 "editor.fontLigatures": true,
 "editor.formatOnSave": true,
+"prettier.singleQuote": true,
+"prettier.enable": true,
+"prettier.tabWidth": 2,
 "editor.defaultFormatter": "esbenp.prettier-vscode",
 "workbench.colorCustomizations": {
   "[Night Owl]": {
