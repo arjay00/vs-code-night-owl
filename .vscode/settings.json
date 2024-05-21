@@ -1,11 +1,17 @@
 {
+  // "workbench.colorTheme": "Tokyo Night",
   "editor.formatOnSave": true,
   "prettier.singleQuote": true,
   "prettier.enable": true,
   "prettier.tabWidth": 2,
   "editor.defaultFormatter": "esbenp.prettier-vscode",
-  "editor.fontFamily": "Dank Mono, Fira Code, Consolas, 'Courier New', monospace",
+  "editor.fontLigatures": "'ss01', 'ss02', 'ss03', 'ss19', 'ss20'",
+  "editor.fontFamily": "Cascadia Mono, Fira Code, Dank Mono, Consolas, 'Courier New', monospace",
   "editor.fontSize": 16,
+  "editor.bracketPairColorization.enabled": true,
+  "editor.minimap.enabled": false,
+  "window.zoomLevel": -1,
+  "editor.stickyScroll.enabled": false,
   "workbench.colorCustomizations": {
     "[Night Owl]": {
       "activityBar.background": "#000C1D",
